@@ -4,7 +4,7 @@
   "description": "Front-End for the API Project Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node AxiosNodeHtml.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
     "body-parser": "^1.20.2",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }

@@ -1,5 +1,5 @@
 // index.js
-// Description: Node.js EJS client
+// Description: Node.js HTML client
 // requires: npm install express ejs axios body-parser
 
 const express = require("express");
